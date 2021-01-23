@@ -57,6 +57,7 @@ def move(x=None, y=None):
 
 # Set up turtle
 turtle.setup(1000, 600)
+turtle.delay(0)
 t = turtle.Turtle()
 t.speed(0)
 t.hideturtle()
