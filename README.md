@@ -1,3 +1,1 @@
 # calculate_pi_with_turtle_py
-# calculate_pi_with_turtle_py
-# calculate_pi_with_turtle_py
